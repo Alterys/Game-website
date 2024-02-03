@@ -14,8 +14,10 @@ npm run dev
 ```
 
 ## Интерфейс 
-![Screenshot](https://raw.githubusercontent.com/Alterys/TicTacToe/main/screenshots/authentication.png)
+![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image.png)
 
-#
+## <details>
+<summary>Крестики нолики</summary>
+![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image4.png)
+</details>
 
-![Screenshot](https://raw.githubusercontent.com/Alterys/TicTacToe/main/screenshots/menu.png) 
