@@ -1,0 +1,9 @@
+.snakeSegment {
+    width: 30px;
+    height: 30px;
+    background-color: #98FF87;
+    position: absolute;
+    border-radius: 8px;
+    transition-duration: 150ms;
+    scale: 1.12;
+  } 

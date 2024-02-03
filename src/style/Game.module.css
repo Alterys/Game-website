@@ -1,0 +1,46 @@
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.retry_button {
+    display: flex;
+    height: 47px;
+    padding: 0px 15px;
+    align-items: center;
+    gap: 10px;
+    align-self: stretch;
+    border-radius: 5px;
+    background: transparent;
+    border: 1px solid #576876;
+    color: #fff;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    transition: all 0.2s ease-in-out;
+}
+
+.retry_button:active {
+    background: #497BAD;
+}
+
+
+.result {
+    display: flex;
+width: 400px;
+justify-content: space-between;
+align-items: center;
+}
+
+.result div {
+    width: 30px;
+height: 30px;
+flex-shrink: 0;
+border-radius: 12px;
+background: #FF3F3F;
+}

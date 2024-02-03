@@ -1,0 +1,46 @@
+.container {
+  display: flex;
+  padding: 20px 30px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  border-radius: 12px;
+  background: none;
+}
+
+.container > p {
+  color: rgba(0, 0, 0, 0.65);
+  font-family: Nunito Sans;
+  font-size: 31px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+  margin: 0;
+}
+.container_buttons {
+  flex-direction: row;
+  gap: 5px;
+  display: flex;
+}
+
+.container_buttons > button {
+  color: #fff;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 700;
+  display: flex;
+  padding: 15px 40px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  border: none;
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.65);
+}
+
+.container_buttons > button:hover {
+  background: rgba(0, 0, 0, 0.4);
+  transition: all ease-in-out 0.2s;
+}

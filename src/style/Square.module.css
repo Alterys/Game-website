@@ -1,0 +1,26 @@
+.square {
+  background: none;
+  width: 120px;
+  height: 120px;
+  border-radius: 10px;
+  border: none;
+  background: rgba(0, 0, 0, 0.65);
+  outline: 5px solid rgba(0, 0, 0, 0.65);
+}
+
+.square.cross_move:hover {
+  background: rgba(135, 81, 81, 0.65);
+  
+}
+
+.square.zero_move:hover {
+  background: rgba(136, 164, 109, 0.65);
+}
+
+.square.cross {
+  background: rgba(255, 102, 102, 0.65);
+}
+
+.square.zero {
+  background: rgba(189, 255, 123, 0.65);
+}

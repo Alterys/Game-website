@@ -1,0 +1,32 @@
+.stones{
+    display: flex;
+    flex-direction: row;
+    gap: 10px
+}
+
+
+.stones>button{
+    display: flex;
+width: 300px;
+height: 300px;
+padding: 10px;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+
+border: none;
+border-radius: 70px;
+background: rgba(0, 0, 0, 0.65);
+}
+.vs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.65);
+
+font-family: Nunito Sans;
+font-size: 31px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}

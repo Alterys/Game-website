@@ -1,0 +1,8 @@
+.container>span {
+    color: rgba(0, 0, 0, 0.65);
+    font-family: Nunito Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
