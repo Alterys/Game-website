@@ -16,6 +16,10 @@ npm run dev
 ## Интерфейс 
 ![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image.png)
 
-## <details><summary>Крестики нолики</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image4.png)</details>
+## <details><summary>Крестики нолики</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image5.png)</details>
+## <details><summary>Змейка</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image4.png)</details>
+## <details><summary>Викторина</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image3.png)</details>
+## <details><summary>Камень ножницы бумага</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image2.png)</details>
+
 
 
