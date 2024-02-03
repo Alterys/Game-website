@@ -1,5 +1,5 @@
-## Крестики нолики на React
-> Используется язык программирования JavaScript, библиотека React, линтер ESLint, библиотека локализации react-i18next, библиотека состояний Zustand, Локальный веб-сервер Vite
+## Игровой сайт на React
+> Используется язык программирования JavaScript, библиотека React, линтер ESLint, библиотека локализации react-i18next, библиотека состояний Zustand, Сборщик Web-приложений Vite
 
 ## Установка
 ```bash
@@ -16,8 +16,6 @@ npm run dev
 ## Интерфейс 
 ![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image.png)
 
-## <details>
-<summary>Крестики нолики</summary>
-![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image4.png)
-</details>
+## <details><summary>Крестики нолики</summary>![Screenshot](https://raw.githubusercontent.com/Alterys/Game-website/main/screenshots/image4.png)</details>
+
 
